@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@esm/index.mjs';
+import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@v0.1.0-esm/index.mjs';
 ```
 
 #### sinh( x )
@@ -83,7 +83,7 @@ v = sinh( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@esm/index.mjs';
+import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@v0.1.0-esm/index.mjs';
 
 var x = linspace( -5.0, 5.0, 100 );
 
