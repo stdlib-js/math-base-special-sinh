@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-sinh/tags). For example,
+
+```javascript
 import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@v0.2.3-esm/index.mjs';
 ```
 
@@ -83,7 +88,7 @@ v = sinh( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@v0.2.3-esm/index.mjs';
+import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@esm/index.mjs';
 
 var x = linspace( -5.0, 5.0, 100 );
 
