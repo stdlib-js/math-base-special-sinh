@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2025-11-01)
 
 <section class="reverts">
 
@@ -22,7 +22,8 @@
 
 <details>
 
--   [`d069841`](https://github.com/stdlib-js/stdlib/commit/d0698415fd26eb45c1cab1e1be0e4551fdae5656) - **docs:** replace manual `for` loop in examples [(#6641)](https://github.com/stdlib-js/stdlib/pull/6641) _(by Harsh)_
+-   [`2f0032c`](https://github.com/stdlib-js/stdlib/commit/2f0032c2b5901bd178de69251986fa1a718e61f9) - **chore:** add structured package data for `math/base/special/sinh` [(#8328)](https://github.com/stdlib-js/stdlib/pull/8328) _(by Manvith M)_
+-   [`d069841`](https://github.com/stdlib-js/stdlib/commit/d0698415fd26eb45c1cab1e1be0e4551fdae5656) - **docs:** replace manual `for` loop in examples [(#6641)](https://github.com/stdlib-js/stdlib/pull/6641) _(by Harsh Yadav)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`c741f19`](https://github.com/stdlib-js/stdlib/commit/c741f19410c565ec113a79a399dde2181761ad94) - **bench:** update random value generation [(#6036)](https://github.com/stdlib-js/stdlib/pull/6036) _(by Karan Anand)_
@@ -41,10 +42,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>
