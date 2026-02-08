@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@esm/index.mjs';
+import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@v0.2.4-esm/index.mjs';
 ```
 
 #### sinh( x )
@@ -84,7 +84,7 @@ v = sinh( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@esm/index.mjs';
+import sinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinh@v0.2.4-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
