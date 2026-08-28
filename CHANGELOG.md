@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-27)
+## Unreleased (2026-08-28)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`e67a5aa`](https://github.com/stdlib-js/stdlib/commit/e67a5aad659d8f6623e4ab8ac94687a8586ea83a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`85f4853`](https://github.com/stdlib-js/stdlib/commit/85f48534ef6908bbcd982d48f1c5fbea3fb7aafd) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`6989982`](https://github.com/stdlib-js/stdlib/commit/69899821b975f745bd5d69d01829cb52cd818ac9) - **docs:** add equations [(#14685)](https://github.com/stdlib-js/stdlib/pull/14685) _(by Karan Anand)_
 -   [`f8f63e9`](https://github.com/stdlib-js/stdlib/commit/f8f63e9fe84806760f3a2195645881e963fa5373) - **test:** migrate `math/base/special/sinh` to ULP-based testing [(#12811)](https://github.com/stdlib-js/stdlib/pull/12811) _(by Philipp Burckhardt)_
 -   [`39c4de7`](https://github.com/stdlib-js/stdlib/commit/39c4de75a25292c00909cda17a7cb055113e608e) - **bench:** refactor to use string interpolation in `math/base/special` [(#11390)](https://github.com/stdlib-js/stdlib/pull/11390) _(by Karan Anand)_
